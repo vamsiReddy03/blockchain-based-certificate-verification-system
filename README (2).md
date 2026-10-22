@@ -305,10 +305,9 @@ Base URL: `http://localhost:5000/api`
 - Node.js 20+ and npm
 - MetaMask browser extension
 
-### 1. Clone and install
+### 1. Install
 
 ```bash
-git clone https://github.com/shubhammadaye/certificate-verification-system.git
 cd certificate-verification-system
 npm install
 ```
@@ -470,7 +469,6 @@ npm run lint             # oxlint
 
 ## Credits and Context
 
-- Original project: [shubhammadaye/certificate-verification-system](https://github.com/shubhammadaye/certificate-verification-system) by Shubham Madaye.
 - This README accompanies a Cryptography (23CSE331) case study by G Vamsi Reddy (AV.SC.U4CSE24110), Amrita Vishwa Vidyapeetham, which analyses the hash functions, digital signatures and Merkle-tree concepts behind the system.
 
 ## License
